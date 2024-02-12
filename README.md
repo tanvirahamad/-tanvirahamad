@@ -5,6 +5,13 @@
 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Khulna University of Engineering & Technology](http://www.kuet.ac.bd)** 
 
 
+### About me :eyes:
+
+- Associate AI Enginner | Next Solution Lab | Dhaka, Bagladesh
+- :dart: Research Interest | Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing    
+- :e-mail: Ask me about anything ; **tanvirahamadkuet@gmail.com**
+
+
 ### Languages and Tools :computer:
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Dream-kid)](https://github.com/tanvirahamad) 
