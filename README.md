@@ -1,4 +1,4 @@
-### Hey 👋, I'm **[Tanvir Ahamad](https://www.linkedin.com/in/tanvir-ahamad-a9b47719a/)** 👨‍💻
+### Hey 👋, I'm **[Tanvir Ahamad](https://www.linkedin.com/in/tanvir-ahamad-a9b47719a/)** 
 
 
 
